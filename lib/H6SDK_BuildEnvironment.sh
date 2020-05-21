@@ -25,4 +25,4 @@ elif [ "${KERNEL_VER}" = "2"  ];then
 	TOOLCHAIN=("toolchain" "aarch64-linux-gnu-7.4.1")
 fi
 
-ORANGEPI_GIT="https://github.com/orangepi-xunlong"
+ORANGEPI_GIT="https://github.com/ing03201"
